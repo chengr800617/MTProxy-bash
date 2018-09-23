@@ -1,11 +1,10 @@
-# 修改自雨落无声
+修改自雨落无声
 
-# 安装
-```bash
+安装
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy/master/tg.sh && bash tg.sh
-```
 
-# 卸载
-```bash
+
+卸载
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy/master/untg.sh && bash untg.sh
-```
