@@ -65,7 +65,7 @@ echo ""
 
 if [ -f "/etc/secret" ]; then 
 	IP=$(curl -4 -s ip.sb)
-#	IP=ss.freerealm.xyz
+#	IP=www.freerealm.xyz
 	SECRET=$(cat /etc/secret)
 	PORT=$(cat /etc/proxy-port)
 	echo "MTProxy 已安装"
