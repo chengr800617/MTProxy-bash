@@ -110,7 +110,7 @@ mkdir /tmp/MTProxy
 cd /tmp/MTProxy
 
 # 下载 MTProxy 项目源码
-git clone https://github.com/TelegramMessenger/MTProxy
+git clone https://github.com/chengr800617/MTProxy
 
 # 进入项目编译并安装至 /usr/local/bin/
 pushd MTProxy
