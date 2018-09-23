@@ -1,4 +1,5 @@
-修改自雨落无声
+修改自雨落无声https://github.com/FunctionClub/MTProxy-Bash
+
 发现第一次安装无法获取32位密钥，现在自己改了下
 
 安装
