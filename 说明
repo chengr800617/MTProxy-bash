@@ -2,9 +2,9 @@
 
 安装
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy/master/tg.sh && bash tg.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy-bash/master/tg.sh && bash tg.sh
 
 
 卸载
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy/master/untg.sh && bash untg.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/chengr800617/MTProxy-bash/master/untg.sh && bash untg.sh
